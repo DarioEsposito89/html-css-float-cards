@@ -21,3 +21,9 @@ h1 {
     margin-bottom: 40px;
     font-family: 'Coiny', cursive;
 }
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
