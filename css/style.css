@@ -10,6 +10,8 @@ body {
     max-width: 70%;
 }
 
+/* Title and Text */
+
 header {
     text-align: center;
     margin-top: 25px;
@@ -21,6 +23,8 @@ h1 {
     margin-bottom: 40px;
     font-family: 'Coiny', cursive;
 }
+
+/* Cards */
 
 .clearfix::after {
     content: "";
