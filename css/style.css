@@ -37,11 +37,17 @@ h1 {
     background-color: black;
     width: 31%;
     color: white;
+    line-height: 30px;
 }
 
-#img-profile {
+.img-profile {
     float: left;
     height: 100px;
+}
+
+.data-personal {
+    float: left;
+    padding-left: 20px;
 }
 
 .laura {
@@ -56,10 +62,6 @@ h1 {
 
 .marta, .roberto, .daniela {
     margin-top: 40px;
-}
-
-.name {
-    font-size: 20px;
 }
 
 a {
